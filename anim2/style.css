@@ -1,0 +1,45 @@
+.label{
+	position: absolute;
+	font-weight: bolder;
+	color: #000000;
+	padding: 1%;
+	top:45%;
+	font-family: sans-serif;
+	font-size: 150%;
+	cursor: pointer;
+	text-shadow: 1px 1px #ffffff;
+	border: 1px solid black;
+	outline-style: ridge;
+	outline-color: white;
+	outline-width: thick;
+}
+.label:hover {
+    background-color: #a3c6ff;
+}
+#baseSides{
+	left:25%;
+}
+#baseAngles{
+	right:25%;
+}
+#example{
+	left:45%;
+	top: 75%;
+}
+
+#Back{
+	position: absolute;
+	left:43%;
+	top:80%;
+	width: 5%;
+	height: 10%;
+	cursor: pointer;
+}
+#Forward{
+	position: absolute;
+	left:53%;
+	top:80%;
+	width: 5%;
+	height: 10%;
+	cursor: pointer;
+}

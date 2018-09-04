@@ -1,0 +1,95 @@
+.label{
+	position: absolute;
+	font-weight: bolder;
+	color: #000000;
+	padding: 1%;
+	top:80%;
+	font-family: sans-serif;
+	font-size: 150%;
+	cursor: pointer;
+	text-shadow: 1px 1px #ffffff;
+	outline-style: ridge;
+	outline-color: white;
+	outline-width: thick;
+}
+.label:hover {
+    background-color: #a3c6ff;
+}
+#learn{
+	right:25%;
+}
+#solve{
+	left:25%;
+}
+#submit{
+	padding: 0.2%;
+	top: 88%;
+	right: 8%;
+}
+#show{
+	padding: 0.2%;
+	top: 88%;
+	right: 18%;
+}
+#showRuler{
+	padding: 0.2%;
+	top: 88%;
+	left:20%;
+}
+#clear{
+	padding: 0.2%;
+	top: 88%;
+	right:27%;
+}
+.input {
+	position: absolute;
+	left: 85%;
+	height: 5%;
+	width: 7%;
+	font-size: 200%;
+	font-weight: bold;
+  background-color: white;
+  border: 1px solid darkgray;
+  box-shadow: 1px 1px 1px 0 lightgray inset;
+  margin-top: 5px;
+  padding: 2px 3px;
+}
+#Forward{
+	position: absolute;
+	left:48%;
+	top:85%;
+	width: 5%;
+	height: 10%;
+	cursor: pointer;
+}
+#rotate1{
+	position: absolute;
+	top: 86.5%;
+	left:20.5%;
+	width: 4%;
+	height: 7%;
+	cursor: pointer;
+}
+#rotate2{
+	position: absolute;
+	top: 86.5%;
+	left:16%;
+	width: 4%;
+	height: 7%;
+	cursor: pointer;
+}
+#side1{
+	top:	19%;
+}
+#side2{
+	top:	33%;
+}
+#side3{
+	top:	47%;
+}
+#side4{
+	top:	61%;
+}
+#perimeter{
+	top: 76%;
+}

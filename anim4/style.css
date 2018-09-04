@@ -1,0 +1,54 @@
+.label{
+	position: absolute;
+	font-weight: bolder;
+	color: #000000;
+	padding: 1%;
+	top:87%;
+	font-family: sans-serif;
+	font-size: 150%;
+	cursor: pointer;
+	text-shadow: 1px 1px #ffffff;
+	outline-style: ridge;
+	outline-color: white;
+	outline-width: thick;
+}
+.label:hover {
+    background-color: #a3c6ff;
+}
+#learn{
+	left:30%;
+}
+#submit{
+	right:34%;
+}
+.input {
+	position: absolute;
+	left: 85%;
+	height: 5%;
+	width: 5%;
+	font-size: 200%;
+	font-weight: bold;
+  background-color: white;
+  border: 1px solid darkgray;
+  box-shadow: 1px 1px 1px 0 lightgray inset;
+  margin-top: 5px;
+  padding: 2px 3px;
+}
+#stick{
+	top:	85%;;
+}
+#bundle{
+	top:	75%;
+}
+#total{
+	left:50%;
+	top:	65%;
+}
+#Forward{
+	position: absolute;
+	left:48%;
+	top:85%;
+	width: 5%;
+	height: 10%;
+	cursor: pointer;
+}
